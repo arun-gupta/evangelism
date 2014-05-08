@@ -1,0 +1,33 @@
+== Metrics
+
+. Website visits
+. Downloads
+. Mailing list/Forum traffic
+.. Unique users in forum
+.. How much time between a reply is posted 
+. How deep is a thread
+. twitter followers
+. Podcast downloads
+. Average posts/day
+. # of blog posts (within team/community focused)
+. blog hits
+. Google Analytics
+. Geo spread
+. Page hits
+. Organic hits are important
+. How to write successful blog entries
+.. Tech Tip or TOTD
+. Screencasts
+. LOTD
+. youtube views
+. facebook likes
+. How many success stories
+. How many JUGs covered
+. Difficult to tie to revenue
+. Webinar attendees
+. Differentiate between open source and commercial
+. How many new partners recruited
+. Registrations (optional)
+. How many conferences
+.. By the team
+.. By extended community

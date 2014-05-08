@@ -1,0 +1,9 @@
+== Internal
+
+. Sales, Pre-sales
+. Professional Services
+. ISV Engineering
+. Engineering
+. Docs
+. Testing
+. Management (Engineering and Product)

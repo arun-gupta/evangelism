@@ -1,0 +1,24 @@
+== Material
+
+. Presentations (with speaker notes): 1-slide, 10-slide, 30-slide versions
+.. How to get ready for presos ?
+. Videos (on youtube.com)
+. Hackathons
+. Code samples
+. Blogs
+. Interviews
+. Success Stories
+. Geographic spread of your "champions"
+. Hands-on-labs
+. How to conduct ?
+
+. Train the trainer
+. Make the model more inclusive than exclusive
+
+. How to spread the word ?
+.. Articles - in English and localized
+.. Websites such as InfoQ, TSS, DZone
+.. Social media channels
+.. Why twitter and facebook both ?
+Its OK to post personal content as long as it does not exceed 10%. There is no formula behind this number and its just an estimate to ensure that the blog stays technical.
+Scalability is important

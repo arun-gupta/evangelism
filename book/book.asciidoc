@@ -1,0 +1,33 @@
+= Community Evangelism Guidebook
+
+
+== What is Community Evangelism ?
+
+. How is it different from sales ?
+. How to pitch to developers ?
+. How to pitch to IT staff ?
+. How to pitch to CIOs ?
+
+== Principles of Evangelism
+. Honesty and Transparency
+. Believe before your spread
+. Passion
+. Continuous Follow-up
+
+OK to make a mistake as long as you recover from it FAST and ensure it does not happen again.
+
+== Developer Advocate or Technology Evangelist or XXX ?
+
+include::external.asciidoc[]
+
+include::internal.asciidoc[]
+
+include::material.asciidoc[]
+
+include::metrics.asciidoc[]
+
+== Misc
+
+. Quotes from “The Tipping Point” and “Crossing the Schism”
+. Examples of Failed Evangelism
+. How to stay fit because of excessive travel ?
