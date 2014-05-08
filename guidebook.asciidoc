@@ -1,0 +1,102 @@
+= Community Evangelism Guidebook
+
+== What is Community Evangelism ?
+
+. How is it different from sales ?
+. How to pitch to developers ?
+. How to pitch to IT staff ?
+. How to pitch to CIOs ?
+
+== Principles of Evangelism
+. Honesty and Transparency
+
+OK to make a mistake as long as you recover from it FAST and ensure it does not happen again.
+
+== Developer Advocate or Technology Evangelist or XXX ?
+
+== External
+
+. Conferences
+.. Sponsoring
+.. Speaking
+.. Booth
+.. Attendee
+.. How to select a conference
+. Java User Groups, Meetups
+. Students
+. Java Champions
+. Book Authors
+. Google Adwords
+. Posting comments on others' blog
+. Make sure the blog entry’s title has relevant keywords
+
+
+== Internal
+
+. Sales, Pre-sales
+. Professional Services
+. ISV Engineering
+. Engineering
+. Docs
+. Testing
+. Management (Engineering and Product)
+
+== Material
+
+. Presentations (with speaker notes): 1-slide, 10-slide, 30-slide versions
+.. How to get ready for presos ?
+. Videos (on youtube.com)
+. Hackathons
+. Code samples
+. Blogs
+. Interviews
+. Success Stories
+. Geographic spread of your "champions"
+. Hands-on-labs
+. How to conduct ?
+
+. Train the trainer
+. Make the model more inclusive than exclusive
+
+. How to spread the word ?
+.. Articles - in English and localized
+.. Websites such as InfoQ, TSS, DZone
+.. Social media channels
+.. Why twitter and facebook both ?
+Its OK to post personal content as long as it does not exceed 10%. There is no formula behind this number and its just an estimate to ensure that the blog stays technical.
+Scalability is important
+
+
+== Metrics
+
+. Website visits
+. Downloads
+. Mailing list/Forum traffic
+.. Unique users in forum
+.. How much time between a reply is posted 
+. How deep is a thread
+. twitter followers
+. Podcast downloads
+. Average posts/day
+. # of blog posts (within team/community focused)
+. blog hits
+. Google Analytics
+. Geo spread
+. Page hits
+. Organic hits are important
+. How to write successful blog entries
+.. Tech Tip or TOTD
+. Screencasts
+. LOTD
+. youtube views
+. facebook likes
+. How many success stories
+. How many JUGs covered
+. Difficult to tie to revenue
+. Webinar attendees
+. Differentiate between open source and commercial
+. How many new partners recruited
+. Registrations (optional)
+. How many conferences
+.. By the team
+.. By extended community
